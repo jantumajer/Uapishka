@@ -1,1 +1,1 @@
-Detrended climatic data from ANUSPLIN
+Detrended (!) climatic data from ANUSPLIN model.
