@@ -1,0 +1,1 @@
+Simulated integral growth rates.
